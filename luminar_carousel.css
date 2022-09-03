@@ -1,0 +1,33 @@
+.nav-item1{
+    text-decoration: underline;
+    padding-top: 8px;
+}
+.navbar-collapse{
+    padding-left: 20%;
+}
+.container-fluid>img{
+    padding-left: 2%;
+}
+a.class1{
+    color: blueviolet
+}
+.ip{
+    margin-left: 550px;
+}
+.bt3{
+    background-color: blueviolet;
+    border-color: blueviolet;
+    color: white;
+}
+.bt2{
+    background-color: blueviolet;
+    border-color: blueviolet;
+    color: white;
+}
+.bs1{
+    background-color: blueviolet;
+    color: white;
+}
+.btn-close{
+    padding-left: 193%;
+}
